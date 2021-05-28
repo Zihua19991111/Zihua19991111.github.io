@@ -39,9 +39,9 @@
 - "但是 我逐渐发现你的文字(内在)才更加引人入胜"
 
 - "你的文字部分 我都有认真地读完 还记了些笔记 这个时候了也就不藏起来了 喏"
-  ![avatar](https://zihua19991111.github.io/my_pictures/%E5%A4%87%E5%BF%98%E5%BD%951.jpeg)
+  ![avatar](https://zihua19991111.github.io/my_pictures/pic1.jpeg)
 
-  ![avatar](https://zihua19991111.github.io/my_pictures/%E5%A4%87%E5%BF%98%E5%BD%952.jpeg)
+  ![avatar](https://zihua19991111.github.io/my_pictures/pic2.jpeg)
 
 
 - "5月15晚第一次打了电话"
@@ -63,4 +63,4 @@
 
 ***wish: "努力>>美丽的鹅毕业快乐"***
 
-![avatar](https://zihua19991111.github.io/my_pictures/%E5%90%88%E7%85%A7.jpeg)
+![avatar](https://zihua19991111.github.io/my_pictures/pic3.jpeg)
