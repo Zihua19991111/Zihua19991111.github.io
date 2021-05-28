@@ -1,4 +1,4 @@
-## Welcome to your website
+## Welcome to your own website!
 
 **To my best 鹅:**
 
@@ -61,6 +61,6 @@
 - "但是和你相处 真的很开心"
 - "不肉麻下去了"
 
-***wish: "努力>>美丽的鹅毕业快乐"***
+***wish: "美丽-->努力-->更加美丽的鹅毕业快乐"***
 
 ![avatar](https://zihua19991111.github.io/my_pictures/pic3.jpeg)
