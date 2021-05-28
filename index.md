@@ -39,12 +39,13 @@
 - "但是 我逐渐发现你的文字(内在)才更加引人入胜"
 
 - "你的文字部分 我都有认真地读完 还记了些笔记 这个时候了也就不藏起来了 喏"
+  ![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
 
-  <img src="/home/fan/Desktop/zihua/website/备忘录1.jpeg" style="zoom:33%;" />
+  <img src="https://zihua19991111.github.io/my_pictures/备忘录1.jpeg" style="zoom:33%;" />
 
   
 
-<img src="/home/fan/Desktop/zihua/website/备忘录2.jpeg" style="zoom:33%;" />
+  <img src="https://zihua19991111.github.io/my_pictures/备忘录2.jpeg" style="zoom:33%;" />
 
 - "5月15晚第一次打了电话"
 - "后面我居然成了你的私人催眠师(很荣幸) 如果有需要 我还是愿意继续的"
@@ -65,4 +66,4 @@
 
 ***wish: "努力>>美丽的鹅毕业快乐"***
 
-<img src="/home/fan/Desktop/zihua/website/合照.jpeg" style="zoom:33%;" />
+<img src="https://zihua19991111.github.io/my_pictures/合照.jpeg" style="zoom:33%;" />
